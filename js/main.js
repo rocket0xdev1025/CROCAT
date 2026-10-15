@@ -125,9 +125,9 @@
   /* ---- Contract address + copy ---- */
   const ca = cfg.contractAddress || "";
   const caOk = /^0x[a-fA-F0-9]{6,}$/.test(ca);
-  setText("caAddr", ca || "TBA");
+  setText("caAddr", ca || "0x50A04Df44FB512b4D6D0B189e43A512E33193174");
   $$("[data-ca-short]").forEach((el) => {
-    el.textContent = caOk ? ca.slice(0, 6) + "…" + ca.slice(-4) : "TBA";
+    el.textContent = caOk ? ca.slice(0, 6) + "…" + ca.slice(-4) : "0x50A04Df44FB512b4D6D0B189e43A512E33193174";
   });
 
   const COPY_LINES = [

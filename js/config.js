@@ -12,19 +12,19 @@ window.CROCAT_CONFIG = {
   tagline: "The Cat of Cronos",
 
   // --- Contrato --------------------------------------------------------
-  contractAddress: "0x7Eb480c734eC5f6bd2B918F7393b59D59913DFFA",
+  contractAddress: "0x50A04Df44FB512b4D6D0B189e43A512E33193174",
   chain: "Cronos",
 
   // --- Links (👉 reemplaza los que tengas) -----------------------------
   links: {
-    buy: "https://vvs.finance/swap?outputCurrency=0x7Eb480c734eC5f6bd2B918F7393b59D59913DFFA",
+    buy: "https://vvs.finance/swap?outputCurrency=0x50A04Df44FB512b4D6D0B189e43A512E33193174",
     chart:
-      "https://dexscreener.com/cronos/0x7Eb480c734eC5f6bd2B918F7393b59D59913DFFA",
+      "https://dexscreener.com/cronos/0x50A04Df44FB512b4D6D0B189e43A512E33193174",
     twitter: "https://x.com/CroCat_Token",
     telegram: "", // deja "" si no hay (se oculta el botón)
     discord: "", // deja "" si no hay (se oculta el botón)
     explorer:
-      "https://explorer.cronos.org/token/0x7Eb480c734eC5f6bd2B918F7393b59D59913DFFA",
+      "https://explorer.cronos.org/token/0x50A04Df44FB512b4D6D0B189e43A512E33193174",
   },
 
   // --- Stats en vivo (precio, market cap, liquidez, volumen) -----------
