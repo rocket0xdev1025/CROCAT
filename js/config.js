@@ -20,7 +20,7 @@ window.CROCAT_CONFIG = {
     buy: "https://vvs.finance/swap?outputCurrency=0x50A04Df44FB512b4D6D0B189e43A512E33193174",
     chart:
       "https://dexscreener.com/cronos/0x50A04Df44FB512b4D6D0B189e43A512E33193174",
-    twitter: "https://x.com/CroCat_Token",
+    twitter: "https://x.com/crocat_x",
     telegram: "", // deja "" si no hay (se oculta el botón)
     discord: "", // deja "" si no hay (se oculta el botón)
     explorer:
@@ -48,5 +48,5 @@ window.CROCAT_CONFIG = {
 
   // URL del sitio (para los links que se comparten). Si cambia el dominio, cámbialo
   // también en los meta og:/twitter: de index.html.
-  siteUrl: "https://crocattoken.xyz",
+  siteUrl: "https://crocattoken.xyz", 
 };
